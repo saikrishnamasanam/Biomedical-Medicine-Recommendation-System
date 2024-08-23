@@ -1,1 +1,1 @@
-# Medicine-Recommendation
+# Biomedical Medicine Recommendation System
